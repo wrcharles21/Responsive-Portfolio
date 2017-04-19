@@ -1,0 +1,101 @@
+body {
+	background: url("../images/ep_naturalwhite.png");
+}
+
+.links {
+	float: right;
+	color: #cccccc;
+	margin-right: 100px;
+	margin-top: 15px;
+}
+
+#head {
+    float: left;
+    background: #4aaaaf;
+    margin-left: 68px;
+    font-size: 29px;
+    padding:10px;
+    color: #ffffff;
+
+ }
+.header {
+    background: #ffffff;
+    height: 60px;
+}
+
+
+
+.main-content {
+	max-width: 960px;
+	width: 100%;
+}
+
+
+
+.main {
+    width: 650px;
+    float: left;
+    background: #ffffff;
+    margin-bottom: 30px;
+    margin-left:68px;
+    margin-top: 30px;
+ }
+
+header {
+    background: #ffffff;
+    height: 49px;
+    width: 100%;
+    margin-bottom: 30px;
+    border: 1px solid #777777;
+}
+
+.main_sec_header {
+    clear: both;
+    color: #4aaaaf;
+    margin: 15px;
+    font-size: 32px;
+}
+
+#bio {
+	margin-left: 15px;
+	float: left;
+	font-size: 24px;
+	color: #777777;
+}
+
+#bio-img {
+	float: left;
+	margin-left: 15px;
+}
+
+
+.sidebar {
+    width: 179px;
+    float: right;
+    padding: 20px;
+    text-align: center;
+    background: #ffffff;
+    margin-top: 30px;
+
+}
+
+#connect {
+	color: #4aaaaf;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	font-size: 24px;
+	margin-right: 100px;
+
+}
+
+.footer {
+	clear: both;
+	padding: 15px;
+	border-top: 5px solid #4aaaaf;
+	background: #777777;
+	text-align: center;
+	width: 100%;
+	bottom: 0;
+}
+
+
